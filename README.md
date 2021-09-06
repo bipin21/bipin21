@@ -1,18 +1,4 @@
-### Hi there 👋
-
-<!--
-**bipin21/bipin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋 Its me Arjun Codes
-
-
-I am running youtube channel named Arjun Codes
-
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning React,Spring Bot
-- 💬 Ask me about (https://www.github.com/youtube-arjun-codes/issues)
-
-
-
+### Hi there 👋 Its me Bipin Karki
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bipin21&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
@@ -24,8 +10,17 @@ I am running youtube channel named Arjun Codes
  <details>
 <summary>📊 Github Stats</summary>
  
-![Visitor Count](https://profile-counter.glitch.me/{youtube-arjun-codes}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{bipin21}/count.svg)
 Here are some ideas to get you started:
+
+ <!--
+**bipin21/bipin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning React,Spring Bot
+- 💬 Ask me about (https://www.github.com/bipin21/issues)
+
 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
