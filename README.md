@@ -1,6 +1,6 @@
 ### Hi there 👋 Its me Bipin Karki
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bipin21&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bipin21)](https://git.io/streak-stats)
 
 [![Bipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipin21&theme=gruvbox )](https://github.com/bipin21/github-readme-stats)
 
