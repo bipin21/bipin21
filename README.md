@@ -1,10 +1,5 @@
 ### Hi there 👋 Its me Bipin Karki
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bipin21)](https://git.io/streak-stats)
-
-[![Bipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipin21&theme=gruvbox )](https://github.com/bipin21/github-readme-stats)
-
-[![Bipin'ts github activity graph](https://activity-graph.herokuapp.com/graph?username=bipin21&theme=gruvbox)](https://github.com/bipin21/github-readme-activity-graph)
 
 
  <details>
